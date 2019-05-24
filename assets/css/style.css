@@ -8,5 +8,22 @@ h2 {
 }
 
 body {
-  background-image: url(assets/images/nyc.jpg);
+  background-image: url("https://www.sightseeingpass.com/images/homepage/new-york/new-york-home-header.jpg");
+}
+
+p {
+  font-family: "Mandali", sans-serif;
+  text-align: center;
+  text-align: justify;
+}
+
+.container {
+  height: 45%;
+  width: 45%;
+  background-color: orange;
+}
+
+.press {
+  background-color: antiquewhite;
+  align-content: center;
 }
